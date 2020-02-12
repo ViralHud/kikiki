@@ -1,0 +1,18 @@
+{
+   "enabled": true,
+   "clickCount": 3,
+   "AdList": [
+      {
+         "title": "iklan 1",
+         "description": "deskripsi iklan 1",
+         "image": "https://github.com/tukangpilem/GB4/raw/master/ads/fivestars.png",
+         "url": "https://play.google.com/store/apps/details?id=com.wildspike.wormszone"
+      },
+      {
+         "title": "iklan 2",
+         "description": "deskripsi iklan 2",
+         "image": "https://github.com/tukangpilem/GB4/raw/master/ads/fivestars.png",
+         "url": "https://play.google.com/store/apps/details?id=com.biglime.cookingmadness"
+      }
+   ]
+}
