@@ -1,7 +1,7 @@
 {
    "enabled": true,
    "clickCount": 3,
-   "AdList": [
+   "ads": [
       {
          "title": "iklan 1",
          "description": "deskripsi iklan 1",
