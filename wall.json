@@ -1,0 +1,97 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Lupin VS Pat RANGER",
+      "thumnail":"https://nanostudio.online/monkart/lupin512.png",
+      "link":"https://play.google.com/store/apps/details?id=com.forceapps.clipforclapstutorial"
+    }
+  ],
+
+
+
+  "Data":
+[
+  {
+    "id":1,
+    "id_vid":"1",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 1",
+    "link":"https://rusuhman.xyz/walltest/1.jpg"
+    
+  },
+  {
+    "id":2,
+    "id_vid":"2",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 2",
+    "link":"https://rusuhman.xyz/walltest/2.jpg"
+    
+  },
+  {
+    "id":3,
+    "id_vid":"3",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 3",
+    "link":"https://rusuhman.xyz/walltest/3.jpg"
+   
+  },
+  {
+    "id":4,
+    "id_vid":"4",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 4",
+    "link":"https://rusuhman.xyz/walltest/4.jpg"
+   
+  },
+  {
+    "id":5,
+    "id_vid":"5",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 5",
+    "link":"https://rusuhman.xyz/walltest/5.jpg"
+    
+  },
+  {
+    "id":6,
+    "id_vid":"6",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 6",
+    "link":"https://rusuhman.xyz/walltest/6.jpg"
+    
+  },
+  {
+    "id":7,
+    "id_vid":"7",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 7",
+    "link":"https://rusuhman.xyz/walltest/7.jpg"
+    
+  },
+  {
+    "id":8,
+    "id_vid":"8",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 8",
+    "link":"https://rusuhman.xyz/walltest/8.jpg"
+    
+  },
+  {
+    "id":9,
+    "id_vid":"9",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 9",
+    "link":"https://rusuhman.xyz/walltest/9.jpg"
+    
+  },
+  {
+    "id":10,
+    "id_vid":"10",
+    "nama_cat":"Monkart",
+    "judul":"Monkart Episode - 10",
+    "link":"https://rusuhman.xyz/walltest/10.jpg"
+    
+  }
+]
+}
