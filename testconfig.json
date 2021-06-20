@@ -1,5 +1,5 @@
 {
-"isRedirect" : true,
-"redirectURL" : "https://google.com",
-"redirectMessage" : "hello world"
+"isRedirect" : false,
+"redirectURL" : "market://details?id=com.outfit7.mytalkingtom2",
+"redirectMessage" : "Downlod update aplikasi terbaru di playstore"
 }
