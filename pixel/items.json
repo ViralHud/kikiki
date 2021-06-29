@@ -1,28 +1,28 @@
 {
   "items": [
     {
-      "categoryId": 0,
+      "category": "keciprit pixel",
       "itemName": "1",
       "colorImageUrl":"https://github.com/ViralHud/kikiki/raw/master/pixel/colors/1.png",
       "grayImageUrl":"https://github.com/ViralHud/kikiki/raw/master/pixel/grayscales/1.png",
       "videoToUnlock": false 
     },
     {
-      "categoryId": 0,
+      "category": "keciprit pixel",
       "itemName": "2",
       "colorImageUrl":"https://github.com/ViralHud/kikiki/raw/master/pixel/colors/2.png",
       "grayImageUrl":"https://github.com/ViralHud/kikiki/raw/master/pixel/grayscales/2.png",
       "videoToUnlock": true
     },
     {
-      "categoryId": 0,
+      "category": "kucrut pixel",
       "itemName": "3",
       "colorImageUrl":"https://github.com/ViralHud/kikiki/raw/master/pixel/colors/3.png",
       "grayImageUrl":"https://github.com/ViralHud/kikiki/raw/master/pixel/grayscales/3.png",
       "videoToUnlock": false
     },
     {
-      "categoryId": 0,
+      "category": "kucrut pixel",
       "itemName": "4",
       "colorImageUrl":"https://github.com/ViralHud/kikiki/raw/master/pixel/colors/4.png",
       "grayImageUrl":"https://github.com/ViralHud/kikiki/raw/master/pixel/grayscales/4.png",
