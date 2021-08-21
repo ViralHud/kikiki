@@ -18,7 +18,7 @@
       "fan_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
       "privacy_policy": "http://cieper.xyz/privacy-policy.html",
       "email": "mailto:yoshihironoya@yahoo.com",
-      "redirect": "0",
+      "redirect": false,
       "packagename_update": "com.topsrings.japaneserecipesfood",
       "developer_link": "http://play.google.com/store/search?q=Topsrings&c=apps",
       "version_app": 1
