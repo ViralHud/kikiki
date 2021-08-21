@@ -1,0 +1,27 @@
+{
+  "iklan": [
+    {
+      "pengaturan_iklan":1,
+      "interval": 1,
+      "disable_ads": 1,
+      "bannerid": "ca-app-pub-3940256099942544/9214589741",
+      "interid": "ca-app-pub-3940256099942544/1033173712",
+      "nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "startappid": "206810649",
+      "admob_hpk1": "",
+      "admob_hpk2": "",
+      "admob_hpk3": "",
+      "admob_hpk4": "",
+      "admob_hpk5": "",
+      "fan_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_inter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "fan_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "privacy_policy": "http://cieper.xyz/privacy-policy.html",
+      "email": "mailto:yoshihironoya@yahoo.com",
+      "redirect": "0",
+      "packagename_update": "com.topsrings.japaneserecipesfood",
+      "developer_link": "http://play.google.com/store/search?q=Topsrings&c=apps",
+      "version_app": 1
+    }
+  ]
+}
