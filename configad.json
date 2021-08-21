@@ -3,7 +3,7 @@
     {
       "pengaturan_iklan":1,
       "interval": 1,
-      "disable_ads": true,
+      "disable_ads": false,
       "bannerid": "ca-app-pub-3940256099942544/9214589741",
       "interid": "ca-app-pub-3940256099942544/1033173712",
       "nativeid": "ca-app-pub-3940256099942544/2247696110",
@@ -18,7 +18,7 @@
       "fan_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
       "privacy_policy": "http://cieper.xyz/privacy-policy.html",
       "email": "mailto:yoshihironoya@yahoo.com",
-      "redirect": false,
+      "redirect": true,
       "packagename_update": "com.topsrings.japaneserecipesfood",
       "developer_link": "http://play.google.com/store/search?q=Topsrings&c=apps",
       "version_app": 1
